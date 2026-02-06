@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "communicatordb-bf810",
+          "configurations": {
+            "android": "1:927193034901:android:8ecb3f5847cc3e046feb9c",
+            "ios": "1:927193034901:ios:bd0e75d5f0722c306feb9c",
+            "web": "1:927193034901:web:34b8279fff70c4c26feb9c"
+          }
+        }
+      },
+      "android": {
+        "default": {
+          "projectId": "communicatordb-bf810",
+          "appId": "1:927193034901:android:8ecb3f5847cc3e046feb9c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

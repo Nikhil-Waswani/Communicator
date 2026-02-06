@@ -1,0 +1,1 @@
+F:\Dart_code\communicator\build\app\intermediates\cxx\RelWithDebInfo\2b6j273a\obj\arm64-v8a

@@ -1,0 +1,2 @@
+F:/Dart_code/communicator/android/app/.cxx/RelWithDebInfo/1n121545/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/Dart_code/communicator/android/app/.cxx/RelWithDebInfo/1n121545/armeabi-v7a/CMakeFiles/rebuild_cache.dir

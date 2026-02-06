@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "927193034901",
+    "project_id": "communicatordb-bf810",
+    "storage_bucket": "communicatordb-bf810.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927193034901:android:8ecb3f5847cc3e046feb9c",
+        "android_client_info": {
+          "package_name": "com.example.communicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927193034901-pu2st519e9fv385kql4mnt62hholiu2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.communicator",
+            "certificate_hash": "789989b1bc122798fbac67fdb92fb69dfc0d7f67"
+          }
+        },
+        {
+          "client_id": "927193034901-llra91cia0mnij75vkd4nueoeb4b4mko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYlGP_GTUjpuuZXO6NyLyH4pTRB9aw_Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927193034901-llra91cia0mnij75vkd4nueoeb4b4mko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927193034901-76eq1l4rrn8s45husjntlti3qnq3bid6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.communicator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
